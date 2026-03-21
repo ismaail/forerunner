@@ -1,5 +1,5 @@
 {
-    "name": "blaspsoft/forerunner",
+    "name": "ismaail/forerunner",
     "description": "A Laravel package that provides an elegant, migration-inspired API for defining JSON schemas that ensure your LLM responses are perfectly structured every time.",
     "type": "library",
     "license": "MIT",
